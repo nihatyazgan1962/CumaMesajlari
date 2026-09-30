@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cuma Mesajları &amp; Kart Tasarım</string>
+    <string name="provider_authority">com.cumamesajlari.app.fileprovider</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#0D5C46</color>
+    <color name="primary_variant">#063B2C</color>
+    <color name="secondary">#D4AF37</color>
+    <color name="secondary_variant">#AA820A</color>
+    <color name="background">#0B131E</color>
+    <color name="surface">#14202E</color>
+    <color name="gold">#FFD700</color>
+    <color name="emerald">#004D40</color>
+    <color name="midnight">#0A192F</color>
+</resources>
