@@ -59,5 +59,5 @@ Her Cuma için güzel dini mesajlar, dualar ve Cuma suresini bir araya getiren; 
 
 ## 👨‍💻 Geliştirici
 
-**Nihat Yazgan** — Yazgan Bileşim  
+**Nihat Yazgan** — Yazgan Bilişim  
 GitHub: [@nihatyazgan1962](https://github.com/nihatyazgan1962)
