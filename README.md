@@ -57,8 +57,13 @@ Her Cuma için güzel dini mesajlar, dualar ve Cuma suresini bir araya getiren; 
 └── build.gradle
 ```
 
-## 👨‍💻 Geliştirici
+## 📞 İletişim
 
-**Yazgan Bilişim**  
-E-posta: yazganbilisim2026@gmail.com
-GitHub: [@nihatyazgan1962](https://github.com/nihatyazgan1962)
+<div align="center">
+
+[![E-posta](https://img.shields.io/badge/E--posta-yazganbilisim2026@gmail.com-00b4d8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:yazganbilisim2026@gmail.com)
+[![Diğer Uygulamalarımız](https://img.shields.io/badge/Diğer_Uygulamalarımız-Tüm_Projeler-00b4d8?style=for-the-badge&logo=android&logoColor=white&labelColor=0d1117)](https://github.com/nihatyazgan1962?tab=repositories)
+
+**Yazgan Bilişim**
+
+</div>
